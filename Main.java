@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Updated message after modification!");
+        System.out.println("Modification #2!");
 
     }
 }
